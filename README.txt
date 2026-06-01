@@ -1,7 +1,7 @@
 === ENGLISH ===
 
 WINDOWS USERS:
-Simply download main.exe and double-click it. Everything you need is included inside the file. No additional installation required.
+Simply download Pdf-Anonymizer.zip, double-click it and start the PDF-Anonymizer application. Everything you need is included inside the file. No additional installation required.
 
 MAC/LINUX USERS:
 Follow the Python installation instructions below to run the app from the terminal.
@@ -9,7 +9,7 @@ Follow the Python installation instructions below to run the app from the termin
 === GERMAN ===
 
 WINDOWS-BENUTZER:
-Laden Sie einfach main.exe herunter und doppelklicken Sie darauf. Alles, was Sie brauchen, ist in der Datei enthalten. Keine zusätzliche Installation erforderlich.
+Laden Sie einfach Pdf-Anonymizer.zip herunter, doppelklicken Sie darauf und starten sie das PDF-Anonymizer programm. Alles, was Sie brauchen, ist in der Datei enthalten. Keine zusätzliche Installation erforderlich.
 
 MAC/LINUX-BENUTZER:
 Folgen Sie den Python-Installationsanweisungen unten, um die App vom Terminal aus auszuführen.
