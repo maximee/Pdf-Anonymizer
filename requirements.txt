@@ -1,4 +1,0 @@
-pdfplumber
-spacy
-reportlab
-pypdf
