@@ -1,0 +1,10 @@
+pdfplumber
+spacy
+reportlab
+pypdf
+pypdfium2
+easyocr
+pillow
+
+# After pip install, download the spaCy model once:
+#   python -m spacy download en_core_web_sm
